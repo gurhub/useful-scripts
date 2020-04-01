@@ -1,6 +1,6 @@
 # Useful Scripts
 
-Some useful scripts for iOS|tvOS|watchOS|macOS developers. 
+Some useful scripts for iOS | tvOS | watchOS | macOS developers. 
 
 ### Reset Xcode
 
