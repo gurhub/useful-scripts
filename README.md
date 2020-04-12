@@ -8,7 +8,7 @@ Reset your Xcode like a newborn 🐣
 
 [reset-xcode.sh](https://github.com/gurhub/useful-scripts/blob/master/reset-xcode.sh)
 
-### Remove old Simulators
+### Remove Old and Unsupported Simulators
 
 Remove old and unsupported simulators 🧹
 
